@@ -1,6 +1,6 @@
 // src/components/Footer.js
 import React from 'react';
-import { FaGithub, FaTwitter, FaInstagram } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -31,12 +31,15 @@ const Footer = () => {
           </div>
           
           <div className="flex justify-center space-x-6 mb-4">
-            <a href="#" className="text-gray-600 hover:text-gray-900">
+            <a href="https://github.com/Shahnawaz1967" className="text-gray-600 hover:text-gray-900">
               <FaGithub  className="h-6 w-6" />
             </a>
-            <a href="#" className="text-gray-600 hover:text-gray-900">
-              <FaInstagram className="h-6 w-6" />
+            <a href="http://www.linkedin.com/in/md-shahnawaz-alam-87b38a232" className="text-gray-600 hover:text-gray-900">
+              <FaLinkedin className="h-6 w-6" />
             </a>
+            <a href="" className="text-gray-600 hover:text-gray-900">
+              <FaInstagram className="h-6 w-6" />
+              </a>
           </div>
           
           <div className="text-center text-gray-500 text-sm">
