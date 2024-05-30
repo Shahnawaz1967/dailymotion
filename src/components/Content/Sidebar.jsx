@@ -20,7 +20,7 @@ const Sidebar = () => {
       <ul>
         {channels.map((channel, index) => (
           <li key={index} className="flex items-center p-2 hover:bg-gray-200">
-            <a href={channel.link} target="_blank" rel="noopener noreferrer" className="flex items-center w-full">
+            <a href={channel.link} target="_self" rel="noopener noreferrer" className="flex items-center w-full">
               <img
                 src={`/icons/${channel.icon}`}
                 alt={channel.name}

@@ -1,19 +1,24 @@
-import React from 'react'
-import Navbar from './components/Navbar/Navbar'
-import Footer from './components/Footer/Footer'
-import Sidebar from './utils/Sidebar'
-// import Sidebar from './components/Sidebar/Sidebar'
+import React from 'react';
+import { Route, Routes } from 'react-router-dom';
+import Herohome from './utils/Herohome';
+import Signup from './components/Signup';
+import Login from './components/Login';
+import Navbar from './components/Navbar';
+import FormHandler from './Formhandler';
 
 const App = () => {
   return (
     <>
-    <Navbar/>
-    <Sidebar/>
-
-    {/* <Sidebar/> */}
-    <Footer/>
+      <FormHandler />
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Herohome />} />
+        <Route path="/Herohome" element={<Herohome />} />
+        <Route path="/signup" element={<Signup />} />
+        <Route path="/login" element={<Login />} />
+      </Routes>
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
