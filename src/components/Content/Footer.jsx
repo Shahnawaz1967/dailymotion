@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="bg-gray-50 py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center">
-          <img src="./src/assets/logodaily.png" alt="Dailymotion Logo" className="h-8 mb-4" />
+          <img src="logodaily.png" alt="Dailymotion Logo" className="h-8 mb-4" />
           
           <nav className="flex flex-wrap justify-center space-x-4 sm:space-x-6 mb-4 text-center">
             <a href="#" className="text-sm text-gray-600 hover:underline">About</a>
