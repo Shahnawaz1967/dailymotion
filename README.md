@@ -71,10 +71,10 @@ npm run dev
 
 **Link to wish web app video**: paste video link
 
-**Web Deployed Link**:  https://wishmart-six.vercel.app/
+**Web Deployed Link**:https://dailymotion.vercel.app/
 
-## 🎋 `COLLABORATORS`
-This project is created within a team of two members.
+## 🎋 `Individual project`
+This project is created by Me.
 - [@MD Shahnawaz](https://github.com/Shahnawaz1967)
 
 ##  📚`Feedback`
