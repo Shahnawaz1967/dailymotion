@@ -28,11 +28,6 @@ users can feel good when see news because they get updated from the world
 ![Footerd](https://github.com/Shahnawaz1967/dailymotion/assets/127391541/a593dd55-d0db-4b58-a007-db0c43f262b7)
 
 
-
-#  About page
-![2024-05-19](https://github.com/Shahnawaz1967/wishmart/assets/127391541/1673f980-e6ef-40e0-b0b1-daa4af066654)
-
-
 ##  🌿 `Project Folder Structure`
 1. [src/app.js]  in this page all the components are imported and applied Routes
 2.[src/index.js]  for managing the whole the website.
