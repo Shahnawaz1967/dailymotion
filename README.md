@@ -8,7 +8,14 @@ video :Users can watch ,share and like the video .
 users can feel good when see news because they get updated from the world
 
 # Main pages of the project
-![Homepaged](https://github.com/Shahnawaz1967/dailymotion/assets/127391541/f3557e19-6fc8-437b-9f6b-1e5d196034a4)
+
+![HomePageDai](https://github.com/Shahnawaz1967/dailymotion/assets/127391541/a9fa34b2-4644-4d6a-897f-f4e634f3b8c3)
+
+
+#  News Page
+
+![News page](https://github.com/Shahnawaz1967/dailymotion/assets/127391541/896c3f0b-21e9-4518-96a5-5c81d78abe5a)
+
 
 
 #  Signup 
@@ -29,12 +36,12 @@ users can feel good when see news because they get updated from the world
 
 
 ##  🌿 `Project Folder Structure`
-1. [src/app.js]  in this page all the components are imported and applied Routes
-2.[src/index.js]  for managing the whole the website.
-3. [src/components]  in this file all the dependency are their .
-4. [src/features] redux file are available here
-5. [src/contents] All the data are available .
-6. 
+1. src:This is the main folder where most of my project code resides.
+2. [src/app.js]  The Root component that gets rendered in the browser.
+3.[src/index.js]  for managing the whole the website.
+4. [src/components]  in this file all the dependency are their .
+5. [src/features] redux file are available here
+6. [src/contents] All the data are available .
 
 
 ## 🌐 `Languages and Tools used`
