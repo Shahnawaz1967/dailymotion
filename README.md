@@ -93,9 +93,11 @@ npm run dev
 
 ## ✨`Deployment`
 
-**Link to wish web app video**: paste video link
+**Link to Dailymotion video**: https://youtu.be/5WcoSdMmv-k
 
 **Web Deployed Link**:https://dailymotion.vercel.app/
+
+**Github repo Link**:https://github.com/Shahnawaz1967/dailymotion.git
 
 ## 🎋 `Individual project`
 This project is created by Me.
