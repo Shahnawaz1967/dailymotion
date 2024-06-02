@@ -15,7 +15,8 @@ users can feel good when see news because they get updated from the world
 
 #  News Page
 
-![News page](https://github.com/Shahnawaz1967/dailymotion/assets/127391541/896c3f0b-21e9-4518-96a5-5c81d78abe5a)
+![NewsDa](https://github.com/Shahnawaz1967/dailymotion/assets/127391541/b48205c3-e3ac-4957-9204-7a1686b4083b)
+
 
 
 
