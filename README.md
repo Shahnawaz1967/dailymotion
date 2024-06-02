@@ -4,8 +4,23 @@ This project is clone of DailyMotion in which users can see videos share video.D
 # Features:
 
 Responsive Design: The website provides a seamless experience across various devices.
+
 video :Users can watch ,share and like the video .
-users can feel good when see news because they get updated from the world
+
+Diverse Content: DailyMotion hosts a wide range of videos, including music, sports, news, gaming, and entertainment.
+
+Personalized Recommendations:The platform offers personalized video recommendations based on user preferences and viewing history.
+
+High-Quality Video Playback:Supports various video qualities, including HD, to enhance the viewing experience.
+
+
+Content Discovery:An efficient search engine and categories help users discover new and trending content easily.
+
+Social Sharing:Easy sharing of videos on social media platforms like Facebook, Twitter, and more.
+
+Multi-language Support:DailyMotion supports multiple languages, making it accessible to a global audience.
+
+Live Streaming:Viewers can watch live streams of events, gaming sessions, and other live content.
 
 # Main pages of the project
 
