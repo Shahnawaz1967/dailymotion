@@ -9,7 +9,8 @@ users can feel good when see news because they get updated from the world
 
 # Main pages of the project
 
-![HomePageDai](https://github.com/Shahnawaz1967/dailymotion/assets/127391541/a9fa34b2-4644-4d6a-897f-f4e634f3b8c3)
+![HomePageDaily](https://github.com/Shahnawaz1967/dailymotion/assets/127391541/9d2e0445-101b-4cdf-9a6b-ea12ecb7470e)
+
 
 
 #  News Page
